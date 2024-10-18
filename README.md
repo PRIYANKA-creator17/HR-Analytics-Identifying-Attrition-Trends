@@ -70,4 +70,6 @@ The comparison of machine learning models provides key insights into predicting 
 
 The Gains metric highlights performance improvements, with Deep Learning showing a 42-point gain due to its ability to model non-linear relationships, and Logistic Regression with a 32-point gain for simplicity and ease of interpretation.
 
-**Results and Impact:** By identifying employees at high risk of leaving, these models enable proactive interventions, such as improving job satisfaction, managing overtime, or adjusting travel policies. These strategies can reduce turnover, improve retention, and minimize recruitment costs, directly addressing the organization's attrition challenges.
+**Results and Impact:**
+
+By identifying employees at high risk of leaving, these models enable proactive interventions, such as improving job satisfaction, managing overtime, or adjusting travel policies. These strategies can reduce turnover, improve retention, and minimize recruitment costs, directly addressing the organization's attrition challenges.
