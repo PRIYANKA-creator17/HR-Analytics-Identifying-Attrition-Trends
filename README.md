@@ -3,6 +3,7 @@
 Employee attrition, or turnover, is a significant concern for many organizations, particularly in sectors where talent retention is critical for business success. A study by the Society for Human Resource Management (SHRM) reports that the average cost per hire is over $4,000, and replacing an employee can cost 6-9 months of their salary. This highlights the financial burden associated with high turnover, especially when attrition rates are unpredictable and not well-managed.
 
 **Data Overview**
+
 The  dataset used to identify here, includes information on 1,470 employees, covering important aspects like demographics, job satisfaction, work-life balance, and time spent with the company.
 
 **Attrition Rate**: About 16% of the employees have left the organization, which highlights a substantial turnover issue.
