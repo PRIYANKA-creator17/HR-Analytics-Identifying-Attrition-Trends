@@ -29,12 +29,17 @@ The dataset includes features such as:
 
 
 **Higher Attrition:** Employees with Education Level 2 (Blue) and Education Level 3 (Black) are more likely to leave the company.
+
 **Higher Retention:** Employees with Education Level 3 (Black) and Education Level 4 (Orange) tend to stay longer, indicating better job satisfaction or security.
 **No Significant Gender Impact** - Attrition patterns do not differ significantly by gender.
+
 **Insights for Improvement:**
+
 **Targeted Retention:** Focus on retaining employees with Education Levels 2 and 3, as they show higher attrition.
-Professional Development: Offer development opportunities to employees with lower education levels to reduce turnover.
-No Immediate Gender-Specific Interventions: Retention strategies should be centered on educational background rather than gender.
+
+**Professional Development:** Offer development opportunities to employees with lower education levels to reduce turnover.
+
+**No Immediate Gender-Specific Interventions: Retention strategies should be centered on educational background rather than gender.**
 
 ![image](https://github.com/user-attachments/assets/1f195fbe-88fa-4327-b2f9-4cf6843a81d2)
 
