@@ -58,9 +58,13 @@ In Sales, where income distribution is more balanced across education levels, re
 From the dataset, I observed the following relevant statistics:
 
 **Business Travel**: Employees who frequently travel for work are 2 times more likely to leave the organization compared to those who travel rarely.
+
 **Job Satisfaction**: Employees with lower job satisfaction scores (scores of 1 or 2) are 3 times more likely to leave the company than those with scores of 3 or 4.
-**Overtime Work: Employees who regularly work overtime are 4 times more likely to leave, indicating that overwork might be contributing to burnout and eventual turnover.
+
+**Overtime Work:** Employees who regularly work overtime are 4 times more likely to leave, indicating that overwork might be contributing to burnout and eventual turnover.
+
 Monthly Income: Interestingly, employees with lower monthly income (in the bottom 25th percentile) show a 25% higher likelihood of leaving compared to those in the higher income bracket.
+
 By addressing these patterns and implementing retention efforts around job satisfaction, reducing frequent travel, and managing overtime, organizations can potentially reduce their attrition rate by a significant margin.
 
 ![image](https://github.com/user-attachments/assets/eb90130e-18a6-4cd3-887b-df6289de8925)
